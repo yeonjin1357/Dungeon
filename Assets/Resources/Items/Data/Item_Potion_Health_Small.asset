@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d228ae310ae055479fabb2290f67915, type: 3}
+  m_Name: Item_Potion_Health_Small
+  m_EditorClassIdentifier: 
+  _itemId: b7e149bf-a645-4cb8-9cd8-05a336416398
+  _itemName: Small Health Potion
+  _description: "\uD68C\uBCF5 \uD3EC\uC158\uC785\uB2C8\uB2E4. \uCCB4\uB825\uC744
+    30 \uD68C\uBCF5\uD569\uB2C8\uB2E4."
+  _icon: {fileID: 0}
+  _worldPrefab: {fileID: 0}
+  _itemType: 2
+  _rarity: 0
+  _isStackable: 1
+  _maxStackSize: 10
+  _buyPrice: 50
+  _sellPrice: 25
+  _isSellable: 1
+  _isDroppable: 1
+  _requiredLevel: 1
+  _requiredClass: 

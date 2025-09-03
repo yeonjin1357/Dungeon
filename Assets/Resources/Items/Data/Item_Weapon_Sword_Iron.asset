@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d228ae310ae055479fabb2290f67915, type: 3}
+  m_Name: Item_Weapon_Sword_Iron
+  m_EditorClassIdentifier: 
+  _itemId: 3214582f-3cf6-4c7f-a8b6-b3f89bd6f902
+  _itemName: Iron Sword
+  _description: "\uAE30\uBCF8\uC801\uC778 \uCCA0\uAC80\uC785\uB2C8\uB2E4."
+  _icon: {fileID: 0}
+  _worldPrefab: {fileID: 0}
+  _itemType: 0
+  _rarity: 0
+  _isStackable: 0
+  _maxStackSize: 1
+  _buyPrice: 100
+  _sellPrice: 50
+  _isSellable: 1
+  _isDroppable: 1
+  _requiredLevel: 3
+  _requiredClass: 
